@@ -1,7 +1,7 @@
 # Line-Following-Robot
 A Line-Following Robot (LFR) is an autonomous mobile robot designed to follow a predefined path, usually marked by a visible line on the ground. The line is typically a dark-colored strip on a lighter surface or vice versa, which the robot detects using sensors. The main goal of an LFR is to navigate along this path by continuously adjusting its movements based on sensor readings. These robots are commonly used in industrial automation, logistics, and educational projects to demonstrate concepts of robotics and control systems.
 
-![Line-Following Robot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.electronicshub.org%2Fline-follower-robot-using-microcontroller%2F&psig=AOvVaw0SWpQFv-VJYNexH45tOd_2&ust=1721157588528000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi_uoHiqYcDFQAAAAAdAAAAABAE)
+![Line-Following Robot]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.electronicshub.org%2Fline-follower-robot-using-microcontroller%2F&psig=AOvVaw0SWpQFv-VJYNexH45tOd_2&ust=1721157588528000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi_uoHiqYcDFQAAAAAdAAAAABAE](https://www.electronicshub.org/wp-content/uploads/2015/10/Line-Follower-Robot-using-Microcontroller-Image-1.jpg))
 
 
 Components Needed

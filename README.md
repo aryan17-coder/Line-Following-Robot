@@ -1,7 +1,7 @@
 # Line-Following-Robot
 A Line-Following Robot (LFR) is an autonomous mobile robot designed to follow a predefined path, usually marked by a visible line on the ground. The line is typically a dark-colored strip on a lighter surface or vice versa, which the robot detects using sensors. The main goal of an LFR is to navigate along this path by continuously adjusting its movements based on sensor readings. These robots are commonly used in industrial automation, logistics, and educational projects to demonstrate concepts of robotics and control systems.
 
-![Line-Following Robot]([https://github.com/your-username/your-repository/blob/main/images/line_following_robot.jpg](https://github.com/aryan17-coder/Line-Following-Robot/blob/main/Line-Follower-Robot.jpg))
+![Line-Following Robot](https://github.com/aryan17-coder/Line-Following-Robot/blob/main/Line-Follower-Robot.jpg)
 
 
 Components Needed
